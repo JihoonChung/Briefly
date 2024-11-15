@@ -1,0 +1,295 @@
+ID,Date of Article,Category,Title,Body,URL
+1de70599-86d1-4992-962d-cf89026d5f71,2024-10-24,Technology,Arm is giving Qualcomm the wake-up call it needs,"Arm is the company inside every phone you can buy today. It designed the processor architecture that companies like Qualcomm, Apple, Google, and MediaTek use to build chips, as well as the processors from companies like Nvidia that power the AI future. They're a pretty big deal. That's why Nvidia tried to use its deep pockets to buy Arm outright in a deal that was thankfully blocked by the FTC.
+
+They also gave Qualcomm a 60-day notice to stop making those chips. Yes, the company that powers a large portion of phones and tablets around the globe has to stop making the main product it sells. Maybe.
+
+Of course, each side is quick to say why they are on the right, and the other side isn't. Qualcomm says in a statement:
+
+This is more of the same from ARM – more unfounded threats designed to strongarm a longtime partner, interfere with our performance-leading CPUs, and increase royalty rates regardless of the broad rights under our architecture license. With a trial fast approaching in December, Arm’s desperate ploy appears to be an attempt to disrupt the legal process, and its claim for termination is completely baseless. We are confident that Qualcomm’s rights under its agreement with Arm will be affirmed. Arm’s anticompetitive conduct will not be tolerated.
+
+And Arm's statement:
+
+Following Qualcomm’s repeated material breaches of Arm’s license agreement, Arm is left with no choice but to take formal action requiring Qualcomm to remedy its breach or face termination of the agreement. This is necessary to protect the unparalleled ecosystem that Arm and its highly valued partners have built over more than 30 years. Arm is fully prepared for the trial in December and remains confident that the Court will find in Arm’s favor.
+
+Let's be real for a minute — this won't happen. The two companies will reach a last-minute agreement that allows Qualcomm to keep making chips because Qualcomm is dead if they're forced to stop making money. This is Arm playing hardball with Qualcomm because it thinks Qualcomm was playing fast and loose with the terms of a contract.
+
+Be an expert in 5 minutes Get the latest news from Android Central, your trusted companion in the world of Android Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors
+
+How did we get to this point? In 2021 Qualcomm spent $1.4 billion to buy Nuvia, a company that designed and built high-powered Arm chips for servers. The acquisition itself was a little touch and go because Nuvia's founder was a chip designer for Apple and was under an agreement that the company would not build chips that compete with Apple products.
+
+(Image credit: Source: Qualcomm)
+
+There was a problem though. Nuvia had a license from Arm to use the company's architecture and original designs, which Arm says was not transferrable. Qualcomm claimed differently and integrated Nuvia's work into its own chips without renegotiating a new contract. It sounds really dumb to us, but Arm says Qualcomm wasn't legally allowed to use the ideas it paid for because they were based on ideas of another company. This is the type of thing that allows lawyers to exist.
+
+Arm kept saying you have to come to the table for new terms, Qualcomm kept saying nope, and now Arm has had enough and says Qualcomm can no longer use its intellectual property 60 days from now.
+
+Now, to the part why this isn't going to happen. Qualcomm depends on Arm, but Arm considers Qualcomm just another customer. In 61 days if Qualcomm stops making Arm chips for phones, tablets, laptops, routers, and every other gadget you can imagine Arm still has plenty of other customers. Arm would surely feel the loss financially and it's possible that Qualcomm would sue for the return of money paid for the rest of any contract, but Apple, Nvidia, Samsung, MediaTek, and a slew of other companies would keep chugging along and continue to pay Arm.
+
+You can see where this is going: Qualcomm needs Arm. Arm doesn't need Qualcomm. The two companies working together is lucrative for both sides, but if the partnership ends Arm will survive.
+
+Qualcomm will do whatever it takes to keep on making chips. Maybe Qualcomm should have complied with Arm's wishes sooner, but Qualcomm is no stranger to litigation and acting the bully when it comes to the chip industry. It's a tactic that has worked in the past and a strategy to continue to use until it stops working. Qualcomm makes some fabulous products, but its business practices aren't nearly as wonderful.
+
+(Image credit: Ted Kritsonis / Android Central)
+
+Other companies would be affected if Qualcomm drops off the face of the chip world, too. Some, like Apple and other chip makers, would benefit by way of more foundry time to have their own chips built (unless the U.S. government shuts TSMC down, that is) or gain a new set of customers. Others, like phone manufacturers or companies that make IoT devices, would suffer because they've designed products for a component that's no longer available. Switching to an alternative is expensive and difficult.
+
+Consumers would suffer. Imagine a Galaxy S25 launch with extremely limited availability because there just isn't enough of Samsung's own chips available to make 100 million new phones. Other companies that don't also build in-house chips would have it even worse and scramble to incorporate another product as the heart of their new phone.
+
+Killing off Qualcomm's main business would be a disaster for the consumer market. Both sides know it, just as they know an agreement has to be reached.
+
+In the meantime, it's always fun to see the big dog squirm a little bit. Arm leveraging the proverbial worst-case scenario to get Qualcomm to comply is more entertaining than business as usual.",https://www.androidcentral.com/phones/arm-is-giving-qualcomm-the-wake-up-call-it-needs
+219d5b83-0cfc-4d1c-a2e6-fd8cdff1c6f2,2024-11-12,Technology,Chinese vs. American EV: How Xioami's SU7 compares to the Tesla Model 3,"How kind of tech do they have?
+
+The interior of a Xiaomi SU7 (Top) and a Tesla Model 3. CFOTO/Future Publishing via Getty Images/Costfoto/NurPhoto via Getty Images/Tesla
+
+The SU7's cabin is high-tech and thoroughly modern. Though Xiaomi is best known outside China for its smartphones, the consumer-electronics conglomerate makes everything from TVs and smart speakers to connected housewares like lights and air conditioners.
+
+As part of the Xiaomi ecosystem, the SU7 is integrated with the company's other products, allowing for remote voice control of household appliances from the vehicle.
+
+In front of the driver is a small 7.1-inch rotating digital instrument cluster and a gigantic 56-inch head-up display projected onto the SU7's windshield. Atop its center stack is a massive 16.1-inch infotainment screen with smartphone mirroring. The SU7's rear cabin is equipped with seatback mounting points for tablets that can be connected to the car's infotainment system.
+
+The SU7 also offers Xiaomi Pilot, software that the company says allows for assisted self-driving and self-parking.
+
+The Model 3's cabin is a demonstration of high-tech minimalism. The entire in-car experience is focused on the Tesla's 15.4-inch central touchscreen, which serves as both the instrument display and its infotainment screen. Rear-seat passengers can have access to their own eight-inch touchscreen with entertainment options and climate controls.
+
+The Model 3 also comes with handy features like Sentry Mode, which monitors the vehicle's surroundings, and Dog Mode, which keeps your pets safe while you're away from the car.
+
+As with all Teslas, the Model 3 comes with the company's signature Autopilot semi-autonomous driving tech.",https://www.businessinsider.com/tesla-model3-vs-chinese-ev-xiaomi-su7-compared-2024-11#the-tesla-and-xiaomi-have-similar-looks-2
+0fedbc35-680d-4cdb-a97a-4c1ae6160aeb,2024-11-12,Technology,Would you buy an affordable EV made in China?,"As the federal government mulls whether to impose tariffs on Chinese electric vehicles, some Canadians say they would jump at the chance to buy a cheaper Chinese-branded EV manufactured in that country.
+
+Ottawa held a month-long consultation in July on how to handle Beijing's powerful presence in the EV sector. Tariffs are among the options on the table.
+
+Michael Wawrykowicz, who lives in Edmonton, uses a small Mitsubishi EV he bought second-hand four years ago for short trips around the city.
+
+""For commuting, it's been great,"" he said in an interview, adding that maintenance costs have been minimal. ""In the past couple of years, I've only bought tires and washer fluid for it, and I plug it into the block heater at work.""
+
+Wawrykowicz said he would be keen to buy an electric vehicle from China with improved range, if the price was right.
+
+BYD, a Chinese car manufacturing giant, debuted its Seagull EV last year at a starting price of about $14,600 Cdn for a 305-kilometre-range version. The cheapest options available in Canada, by contrast, start at roughly $38,000 .
+
+Wawrykowicz was among the callers on CBC's Cross Country Checkup on Sunday in favour of lower-cost EV options from China.
+
+Cross Country Checkup 1:51:20 Would you buy an affordable EV made in China?
+
+Barbara MacLellan, who lives in Colwood, B.C., bought her first EV more than a decade ago and has been championing them ever since. She told the radio program that an influx of Chinese vehicles would help spur competition in Canada.
+
+""The problem has been that legacy automakers have not stepped up to the plate on this,"" MacLellan said. ""It's not early days. We are late to this. We are seeing the climate change now.""
+
+Questions about Chinese government's record
+
+Others were opposed to opening the market to Chinese EVs, expressing safety concerns or citing China's human rights record.
+
+Morgan Whittall, a paramedic in Barrie, Ont., argued it doesn't make sense to buy an EV from a country with such poor environmental policies.
+
+""You're not really getting what you're paying for when you're saying, 'I'm doing this for climate change,' but you're buying it from a place that really isn't considering how their process is affecting the climate,"" he said.
+
+China emits roughly one-third of the world's carbon dioxide, according to the International Energy Agency. But it has also become a world leader in solar and wind energy, along with electric vehicles.
+
+A recent report from the Finnish think-tank Centre for Research on Energy and Clean Air projected that 2024 could be the year emissions in China start to fall.
+
+WATCH | Canada creating plan to crack down on Chinese EV imports: Canada creating plan to crack down on Chinese EV imports Duration 2:03 The federal government is starting consultations to determine how Canada can best stop an oversupply of Chinese-made electric vehicles from flooding the Canadian market. But the promise comes long after increased tariffs on the EVs in the EU and the U.S.
+
+The Finance Department's consultation period wrapped up Aug. 1.
+
+The consultation also included consideration of whether vehicles made in China should be eligible for federal incentives for zero-emission vehicles, such as the rebates of up to $5,000 available to Canadians who buy or lease an EV.
+
+Katherine Cuplinskas, a spokesperson for Finance Minister Chrystia Freeland, said that ""all options — including a surtax — are on the table to protect Canadian workers and EV supply chains from unfair competition from China's intentional, state-directed policy of overcapacity and lack of rigorous labour and environmental standards.""
+
+""We will have more to say soon.""
+
+High stakes for economy and climate
+
+The stakes are high. Since 2020, Canada has attracted more than $46 billion in investments for 13 electric vehicle, battery and battery component manufacturing projects, according to a June 18 report from the Office of the Parliamentary Budget Officer.
+
+The same report says that Ottawa and the provinces have jointly promised up to $53 billion in return, including tax credits, production subsidies and capital investments. Industry groups, such as the Canadian Vehicle Manufacturers' Association, warn all of that could be at risk if the industry isn't protected.
+
+Prime Minister Justin Trudeau was on hand in September 2023 for the announcement of a new electric vehicle battery manufacturing facility by Northvolt in Quebec. The federal government has bet big on EV cars and battery plants. (Ivanoh Demers/Radio-Canada)
+
+""We are gaining a foothold in this emerging industry, and we're doing that in partnership with our American partners and allies,"" Brian Kingston, the group's president, told Cross Country Checkup.
+
+""If we do not take action now to give these facilities time to come online to allow manufacturers to build up their production capacity, we put up all that investment at risk.""
+
+Industry groups in the United States have expressed similar concerns. A report earlier this year from the Alliance for American Manufacturing said government-subsidized Chinese EVs ""could end up being an extinction-level event for the U.S. auto sector."" The U.S. imposed a 100 per cent tariff on Chinese EVs earlier this year, up from 25 per cent.
+
+Environmental groups, such as Environmental Defence, have argued that blocking the entry of Chinese EVs will make them more expensive, delaying Canada's transition to a low-carbon economy. Last year, the Liberals committed to end the sale of gasoline and diesel vehicles by 2035.
+
+The U.S.-company Tesla's EV plant is shown in Shanghai. (Liu Ying/Xinhua/The Associated Press)
+
+For now, the only Chinese-made EVs imported into Canada are from U.S.-based Tesla. The vehicles, made at the company's Shanghai factory, are subject to a six per cent tariff.",https://www.cbc.ca/news/business/canada-china-electric-vehicles-tariffs-1.7298665
+aef0363e-9a6e-4f0f-a636-97f1200c4257,2024-07-02,Technology,Opinion: Chinese EVs aren’t just an economic threat – they are a security risk,"Open this photo in gallery: Electric cars for export waiting to be loaded at Yantai port, in eastern China's Shandong province, on Jan. 10.STR/Getty Images
+
+George S. Takach, an expert on technology and the law, is the author of several books, including Cold War 2.0: Artificial Intelligence in the New Battle Between China, Russia and America.
+
+The Canadian government is considering a surtax to prevent Chinese electric vehicles from flooding the market, just as the U.S. and the European Union have done recently. But there’s much more at stake than just the competitive position of the North American auto industry. Looking back at recent disputes between China and Western democracies, it’s clear that security issues also need to be considered.
+
+The U.S. government recently decided to ban the social media app TikTok if it isn’t sold to a government-approved buyer, in part because it collects user information that could get into the hands of the Chinese government. For its part, the Chinese government has long banned the use of Facebook, Google, YouTube and many other American tech services in China.
+
+In 2021, China directed government employees to stop driving their Teslas to work because cameras and other sensors on the vehicle could be used to obtain sensitive information about the facilities the car was driven into, like a military base or highly sensitive research campus.
+
+More recently, the U.S. government has expressed concern that “connected cranes” in American ports could be hacked by foreign adversaries because of the sophisticated software they use and the reams of data they generate.
+
+A few years ago, governments in many democracies, including Canada and the U.S., banned the use of Chinese-made telecommunications equipment, including from Huawei, because of similar concerns. In 2018, the U.S. banned the use of Chinese-made security cameras at military bases for the same reasons.
+
+Do you see a pattern?
+
+These actions are a part of the massive technology decoupling that is under way between the autocracies and the democracies. It doesn’t extend to most Chinese-made products you can buy in Walmart, such as shower curtains. Equally, China has no such concerns about the agricultural products they buy from Canada.
+
+High-tech goods, however, pose an altogether different risk profile, especially if the item or service collects data, images, and other information. This is what the products and services noted above have in common.
+
+This is also precisely what EVs do today. The typical EV, whether made in China or elsewhere, has about a dozen cameras (some inside as well), a similar number of ultrasonic sensors and radar, and literally several thousand semiconductor chips that operate software and collect and process vast quantities of data, including geolocation information. A foreign government getting access to this tech environment – or a foreign hacker – could find out all sorts of things about drivers, their environs, their contacts and their employers.
+
+Or the foreign government might order the car company to implement a software hack, causing all cars to immediately cease operation, perhaps during the early stages of a national security crisis, such as a diplomatic or military confrontation over the future of Taiwan.
+
+These concerns are real and should be taken seriously by the democracies, just as the Chinese government did when they directed certain government employees to stop driving their Teslas to work. Moreover, the danger is not diminished if the Chinese EV is made in Mexico, just as the TikTok risk is not solved by having data stored on a server in Singapore rather than Shanghai.
+
+These concerns, and several other similar ones, will drive the democracies to eventually eliminate trade with China involving modern technologies. This will be an unfortunate end state, because trade in high-tech offerings between China and the democracies could be a huge win-win for both camps.
+
+Nevertheless, so long as the autocrats currently in power in China (and Moscow, Iran and North Korea) continue to refuse to comply with the norms of the rules-based international order (witness the invasion of Ukraine, grey zone military actions in the South China Sea and around Taiwan, massive disinformation campaigns, the supply of weapons to terrorist groups, constant cyber attacks and the unjust detention of foreign citizens) the great tech decoupling will continue, including in the EV domain.",https://www.theglobeandmail.com/opinion/article-chinese-evs-arent-just-an-economic-threat-they-are-a-security-risk/
+d7f4101a-e988-4013-8f5b-4f3a0cc24231,2024-08-26,Technology,Opinion: Canada must look beyond EV tariffs and force China to play by global trade rules,"Open this photo in gallery: BYD electric vehicles at the port of Lianyungang, in Jiangsu province, China, on April 25.China Daily CDIC/Reuters
+
+Guy Saint-Jacques served as Canada’s ambassador to China from 2012 to 2016.
+
+The decision by the Canadian government to impose 100-per-cent tariffs on Chinese electric vehicles was to be expected. Because of its deep economic integration with the United States (and the possibility that Donald Trump will be the next U.S. president), Ottawa had no choice on Monday but to align with the American position by imposing such tariffs.
+
+But we must recognize that this is an issue bigger than EVs. That’s why Ottawa also announced 25-per-cent tariffs on Chinese aluminum and steel. We have already seen how China has created a near-monopoly on solar power components, to name only one sector, and destroyed foreign competition.
+
+For the past 40 years, and especially since it joined the WTO in 2001, China’s economic success has been based on exports supported when necessary by subsidies of various kinds. In 2015, President Xi Jinping enunciated the Made-in-China 2025 policy to not only reduce Chinese dependency on imports in 10 technological sectors, but also to become a net exporter of these technologies, EVs being one of them. The Chinese economic model encourages overcapacity as its provinces and local officials compete among themselves to create jobs and boost economic growth, with Beijing unable to fully co-ordinate economic development. And China still encourages the acquisition of foreign technology by all means, including theft.
+
+China got a free ride for a long time by occasionally giving piecemeal concessions to foreigners and timely contracts to detract criticism. But China needs to recognize it would pay a price for not playing by the rules – such as giving large subsidies to manufacturers and very slowly removing barriers to allow foreign companies into the Chinese market, despite promises to open it after joining the WTO.
+
+Beijing needs to learn it faces wide-ranging consequences; there have been few consequences so far as foreign governments have been reluctant to take China to the WTO when it did not follow the rules. (There are a number of cases that Canada should have pursued when restrictions were imposed on Canadian products after the arrest of Meng Wanzhou in 2018). As Mr. Xi is more preoccupied by national security, that is preserving the survival of the Communist Party, we should not expect rapid progress in adherence to the rules even if foreign investment in China has been dropping significantly in recent years.
+
+In many ways, we are dealing with a government in Beijing that is immature and does not know how to act responsibly as a major power. Its fallback position has been to act as a bully and use coercive measures against countries that dare to confront it. The Canadian government knows it is not in a comfortable position: the United States remains by far our No. 1 export destination, despite the goals of the Indo-Pacific Strategy; the search for new markets in Asia is moving slowly, while our exports to China keep growing; and China remains an important part of the supply chain of many of our companies.
+
+Foreign Minister Mélanie Joly is trying to rebuild some bridges with China and she should be commended for that, but progress will be limited as the chemistry between Prime Minister Justin Trudeau and Mr. Xi is very bad. Restoring a minimum of dialogue is important for our interests while continuing to press China to improve its human-rights record. We need to explain to them that not doing so and not playing by the rules will prevent China from becoming a great power.
+
+So a goal for Canada (we could call it the level-playing-field policy) should be to work with other countries to force China to play by the rules and, in exchange, we would welcome their products more openly. This would also require an effort to revitalize the WTO so it can play its role more effectively.
+
+In the meantime, it is too bad Canadian consumers cannot benefit from Chinese EVs that are well made and very affordable. As the transportation sector represents a large part of GHG emissions in Canada, getting more EVs on the market should be a priority. Let’s hope we can return to a situation where people can enjoy the benefits of (clean) globalization.",https://www.theglobeandmail.com/business/commentary/article-canada-must-look-beyond-ev-tariffs-and-force-china-to-play-by-global/
+449f4281-e87a-44b5-825b-800adc635ef2,2024-11-12,Technology,OpenAI is reportedly struggling to improve its next big AI model. It's a warning for the entire AI industry.,"OpenAI's next model is showing a slower rate of improvement, The Information said.
+
+It's prompted a Silicon Valley debate about whether AI models are hitting a performance plateau.
+
+The AI boom has moved at pace because new releases have wowed users with huge leaps in performance.
+
+Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview Thanks for signing up! Go to newsletter preferences Thanks for signing up! Access your favorite topics in a personalized feed while you're on the go. download the app Email address Sign up By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time by visiting our Preferences page or by clicking ""unsubscribe"" at the bottom of the email.
+
+Advertisement
+
+OpenAI's next flagship artificial-intelligence model is showing smaller improvements compared with previous iterations, The Information reported, in a sign that the booming generative-AI industry may be approaching a plateau.
+
+The ChatGPT maker's next model, Orion, showed only a moderate improvement over GPT-4, The Information said, citing some employees who have used or tested it. The leap in Orion has been smaller than that between GPT-3 and GPT-4, especially in coding tasks, the report added.
+
+It reignites a debate about the feasibility of developing increasingly advanced models and AI scaling laws — the theoretical rules about how the models improve.
+
+Advertisement
+
+OpenAI CEO Sam Altman said on X in February that ""scaling laws are decided by god; the constants are determined by members of the technical staff.""
+
+The ""laws"" Altman cited suggest AI models become smarter as they size up and get access to more data and computing power.
+
+Altman may still subscribe to the view that a preordained formula decides how much smarter AI can get, but The Information's report showed technical staff were questioning those laws amid a fierce debate in Silicon Valley over growing evidence that leading models are hitting a performance wall.
+
+Advertisement
+
+OpenAI did not immediately respond to a request for comment from Business Insider.
+
+Have scaling laws hit a dead end?
+
+While Orion's training is not yet complete, OpenAI has nonetheless reverted to additional measures to boost performance, such as baking in post-training improvements based on human feedback, The Information said.
+
+The model, first unveiled a year ago, could still see dramatic improvements ahead of its release. But it's a sign that future generations of AI models that have helped companies raise billions of dollars and command lofty valuations may look less impressive with each iteration.
+
+Advertisement
+
+There are two main reasons this could happen.
+
+Altman is a firm believer in ""scaling laws."" Andrew Caballero-Reynolds/AFP/Getty Images
+
+Data, one vital element of the scaling-law equation, has been harder to come by as companies have quickly exhausted available data online.
+
+They have scraped vast amounts of human-created data — including text, videos, research papers, and novels — to train the models behind their AI tools and features, but the supply is limited. The research firm Epoch AI predicted in June that firms could exhaust usable textual data by 2028. Companies are trying to overcome constraints by turning to synthetic data generated by AI itself, but that, too, comes with problems.
+
+Advertisement
+
+""For general-knowledge questions, you could argue that for now we are seeing a plateau in the performance of LLMs,"" Ion Stoica, a cofounder and the executive chair of the enterprise-software firm Databricks, told The Information, adding that ""factual data"" was more useful than synthetic data.
+
+Computing power, the other factor that has historically boosted AI performance, is also not limitless. In a Reddit ""ask me anything"" thread last month, Altman acknowledged that his company faced ""a lot of limitations and hard decisions"" about allocating its computing resources.
+
+It's no wonder that some industry experts have been starting to note that AI models released this year, as well as future ones, show evidence of producing smaller leaps in performance than their predecessors.
+
+Advertisement
+
+'Diminishing returns'
+
+Gary Marcus, a New York University professor emeritus and outspoken critic of AI hype, argues AI development is destined to hit a wall. He has been vocal about his belief that it shows signs of ""diminishing returns"" and reacted to The Information's reporting with a Substack post headlined ""CONFIRMED: LLMs have indeed reached a point of diminishing returns.""
+
+Related stories
+
+When OpenAI's rival Anthropic released its Claude 3.5 model in June, Marcus dismissed an X post showing Claude 3.5's performance with marginal improvements over competitors in areas like graduate-level reasoning, code, and multilingual math. He said it was in the ""same ballpark as many others.""
+
+The AI market has spent billions of dollars trying to upend the competition, only for it to deliver evidence for ""convergence, rather than continued exponential growth,"" Marcus said.
+
+Advertisement
+
+Ilya Sutskever, a cofounder of OpenAI and Safe Superintelligence, has suggested a similar notion. On Monday following The Information's report, he told Reuters that results from scaling up pretraining had plateaued, adding: ""Scaling the right thing matters more now than ever.""
+
+The AI industry will keep looking for ways to spark huge jumps in performance. Anthropic CEO Dario Amodei has predicted that AI-model training runs will enter a new era next year in which they could cost $100 billion. Altman previously said it cost more than $100 million to train GPT-4. It remains to be seen how smart an AI model can get when it has that much capital thrown at it.
+
+Scaling optimism
+
+Other Silicon Valley leaders, including Altman, are still publicly optimistic about AI's scaling potential. In July, Microsoft's chief technology officer, Kevin Scott, dismissed concerns that AI progress had plateaued. ""Despite what other people think, we're not at diminishing marginal returns on scale-up,"" Scott said during an interview with Sequoia Capital's ""Training Data"" podcast.
+
+Advertisement
+
+There could also be strategies to make AI models smarter by enhancing the inference portion of development. Inference is the work done to refine AI outputs once they've been trained, via data they haven't seen before.
+
+The model OpenAI released in September — called OpenAI o1 — focused more on inference improvements. It managed to outperform its predecessors in complex tasks, achieving a level of intelligence similar to that of Ph.D. students on benchmark tasks in physics, chemistry, and biology, OpenAI said.
+
+Still, it's clear that, like Altman, much of the industry remains firm in its conviction that scaling laws are the driver of AI performance. If future models underwhelm, expect a reassessment of the boom.",https://www.businessinsider.com/openai-orion-model-scaling-law-silicon-valley-chatgpt-2024-11
+bb5b9f03-f15c-4151-b7c6-3867fef10ba8,2024-11-12,Technology,Google News,,https://news.google.com/read/CBMidEFVX3lxTE9haXRnbnRzbVlQVmg3MjhKVi1NSl9MY3FXUU9PU1dMVUlxSHd3ek45M082TWYtU1lqQ182bGs0RjF2cHZWQkpmWVFTTTdiYWt4eFZ6bHdNMjVDX2NVaWhpRWxVeTk5Ui12cVZEZW8xaVl2RGpa?hl=en-CA&gl=CA&ceid=CA%3Aen
+c951587f-33cb-41e7-80a9-4b978b3c9802,2024-11-12,Technology,Google News,,https://news.google.com/read/CBMilAFBVV95cUxOSUkzVWMxRHpMVGJRRi1OTVBJZVZwM01sQ3Q2bG9vR1VlVjZRa1FpNlpPeFA3alpyZWI2LVVXTkhISFRtd0I2N2I1T09RQ09aTERzT3JnSmJIR3pDdmJtYkxaZ0t3T2FiOEF4MjhOVGxCdTNRMVU5WWdXYmx5Njk2MUx2YmkyRzNZWmtnenV3R0VWb0ps?hl=en-CA&gl=CA&ceid=CA%3Aen
+e3f84230-f39d-40a5-bfdc-2c316a73d85d,2024-11-08,Technology,TSMC to reportedly suspend production of advanced AI chips for China starting Monday,"Taiwan Semiconductor Manufacturing Co (TSMC) has notified Chinese chip design companies that it is suspending production of their most advanced AI chips from Monday, the Financial Times reported, citing three people familiar with the matter.
+
+TSMC, the world’s largest contract chip maker, told Chinese customers it would no longer manufacture AI chips at advanced process nodes of 7 nanometres or smaller, FT said on Friday.
+
+The U.S. has imposed a raft of measures aimed at restricting the shipment of advanced GPU chips – which enable AI – to China to hobble its artificial intelligence capabilities, which Washington fears could be used to develop bioweapons and launch large-scale cyberattacks.
+
+Earlier this month, the U.S. imposed a $500,000 penalty on New York-based GlobalFoundries for shipping chips without authorization to an affiliate of blacklisted Chinese chip maker SMIC.
+
+Any future supplies of the advanced AI chips by TSMC to Chinese customers would be subject to an approval process likely to involve Washington, according to the FT report.
+
+“TSMC does not comment on market rumour. TSMC is a law-abiding company and we are committed to complying with all applicable rules and regulations, including applicable export controls,” the company said.
+
+The U.S. Department of Commerce did not immediately respond to a Reuters request for comment.
+
+The move to restrict exports to China comes at a time when the U.S. Department of Commerce is investigating how a chip produced by the Taiwanese chip maker ended up in a product made by China’s heavily sanctioned Huawei.",https://www.theglobeandmail.com/business/technology/article-tsmc-to-reportedly-suspend-production-of-advanced-ai-chips-for-china/
+f8bfaec7-ee1b-404a-9654-090262a6f9c8,2024-10-31,Technology,Intel reports third-quarter loss but forecasts Q4 revenue above estimates,"Open this photo in gallery: The Intel Corp headquarters, in Santa Clara, Calif., on Feb. 2, 2010.Robert Galbraith/Reuters
+
+Intel INTC-Q shares climbed more than 12% in extended trading on Thursday after the chipmaker forecast current-quarter revenue above estimates and beat expectations for the third quarter.
+
+Intel reported a massive net loss on Thursday, weighed down by impairment and restructuring charges.
+
+The company has largely missed out on a boom in investments in speedy, advanced AI chips for data centres as businesses double down on adopting generative AI technology – a market dominated by Nvidia, followed by rival AMD.
+
+In an interview with Reuters, Intel finance chief David Zinsner said the company was “making progress” on its profitability but that it had “a lot of work to do” to achieve the targets it has set.
+
+Intel reported a net loss of $16.6 billion for the third quarter, excluding losses attributable to certain noncontrolling interests. That compares with a net profit attributable to Intel of about $300 million in the year-ago period.
+
+As one of the largest makers of PC chips, Intel has benefited as the rollout of on-device AI features and a fresh Windows update cycle have renewed demand for PCs after a years-long slump, helping the company surpass Wall Street’s low expectations.
+
+Revenue in Intel’s Client Computing Group – which includes its PC chips for desktop and laptop computers – fell 7% to $7.3 billion. Analysts estimated the client segment would shrink to $7.38 billion.
+
+The company expects revenue to be between $13.3 billion and $14.3 billion for the current quarter, the midpoint of which is above analysts’ average estimate of $13.66 billion according to data compiled by LSEG.
+
+Analysts also expect demand for traditional server chips made by Intel – its mainstay data-center semiconductors – to pick up in the second half of the year after several quarters of soft demand as investment is funnelled to AI chips.
+
+For the data centre segment, which includes AI chips, Intel reported revenue grew 9% to $3.3 billion, which beat analyst estimates of $3.16 billion.
+
+However, Intel’s share of the PC and server CPU market is consistently threatened by AMD, which now boasts a market valuation larger than that of Intel and is also the closest competitor to market leader Nvidia in AI graphics processors.
+
+Finance chief Zinsner also told Reuters the company planned $12 billion to $14 billion in capital spending in 2025.
+
+Revenue in the company’s contract manufacturing business, or foundry, shrank to $4.4 billion. Intel reported an adjusted gross margin of 18%, compared with analyst estimates of 37.9%
+
+“Let’s be honest, expectations were quite low for the company and they beat those lowered expectations” said Ryan Detrick, chief market strategist of Carson Group. “Both products and foundry did well and the quarter overall was a nice job by the struggling company.”",https://www.theglobeandmail.com/business/technology/article-intel-reports-third-quarter-loss-but-forecasts-q4-revenue-above/
